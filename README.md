@@ -33,6 +33,8 @@ git clone https://github.com/rafael-gomes/pass-generator.git
 ```
 After clone, open the index.html on browser and enjoy it.
 
+Optionally you can generate passwords on [this page ](https://rafael-gomes.github.io/pass-generator/)
+
 ## 📝 License
 
 This project is under MIT License
